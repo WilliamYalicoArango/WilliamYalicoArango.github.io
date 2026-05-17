@@ -169,6 +169,9 @@ cv:
       - name: AWS AI & ML Scholars Program
         issuer: Amazon Web Services (AWS)
         date: 2026
+      - name: Aspire Leaders Program
+        issuer: Aspire Institute / Harvard Business School
+        date: 2025
       - name: Construction 4.0 - Digital Transformation in Construction
         issuer: KONSTRUEDU.COM
         date: 2024
