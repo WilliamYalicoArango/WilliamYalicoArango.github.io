@@ -21,16 +21,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-my-research-paper-was-officially-accepted-for-inclusion-in-the-i3ce-2026-conference-proceedings",
+          title: 'My research paper was officially accepted for inclusion in the i3CE 2026 conference...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-my-paper-has-been-received-and-accepted-for-inclusion-in-the-i3ce-2026-proceedings",
-          title: 'My paper has been received and accepted for inclusion in the i3CE 2026...',
+          section: "News",},{id: "news-my-abstract-was-accepted-at-the-4th-annual-technical-conference-of-the-project-production-institute-ppi-focused-on-operations-and-production-oriented-approaches-for-infrastructure-projects",
+          title: 'My abstract was accepted at the 4th Annual Technical Conference of the Project...',
           description: "",
-          section: "News",},{id: "news-my-poster-academic-was-accepted-at-i3ce-2026",
-          title: 'My poster academic was accepted at i3CE 2026.',
+          section: "News",},{id: "news-my-academic-poster-was-officially-accepted-for-presentation-at-i3ce-2026",
+          title: 'My academic poster was officially accepted for presentation at (i3CE 2026).',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
