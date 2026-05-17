@@ -79,14 +79,13 @@ cv:
           - "Developed statistical controls and graphical analysis for concrete quality evaluation."
 
     Research & Publications:
-      - title: Deep Learning-Based Intelligent Monitoring Framework for Anchored Shotcrete Retaining Walls
-        awarder: International Conference on Computing in Civil Engineering (i3CE 2026)
-        date: 2026
-        summary: Accepted for presentation and inclusion in the conference proceedings. Organized by ASCE and Seoul National University in Songdo, Incheon, South Korea.
-        highlights:
-          - "Author: William Eduardo Yalico Arango."
-          - "Presentation format: oral presentation and academic poster."
-          - "Topic: UAV-based computer vision for automated construction phase monitoring under real site conditions."
+     - title: Deep Learning-Based Intelligent Monitoring Framework for Anchored Shotcrete Retaining Walls
+        authors:
+          - William Eduardo Yalico Arango
+          - Nathalie Murga Díaz
+        journal: International Conference on Computing in Civil Engineering (i3CE 2026)
+        date: 2026-06
+        summary: Accepted for oral presentation and academic poster presentation at i3CE 2026, organized by ASCE and Seoul National University in Songdo, Incheon, South Korea.
 
     Projects:
       - name: Intelligent Construction Monitoring using Computer Vision (Set. 2026 - Present)
@@ -138,25 +137,25 @@ cv:
         keywords: MS Project, Cost Control, PPC, Lookahead Planning, S-Curves, Forecasting, Earned Value
 
     Leadership & Volunteering:
-      - name: Founder and President — ACI UTEC Student Chapter
-        keywords: "Founded and led the ACI student chapter at UTEC (2023/25); organized technical events, symposiums, and academic dissemination activities related to concrete and construction engineering."
+      - label: Founder and President — ACI UTEC Student Chapter
+        details: Founded and led the ACI student chapter at UTEC; organized technical events, symposiums, and academic dissemination activities related to concrete and construction engineering.
 
-      - name: Team Member — LEAD UTEC
-        keywords: "Participating in interdisciplinary initiatives related to science, technology, innovation, and engineering leadership."
+      - label: Team Member — LEAD UTEC
+        details: Participating in interdisciplinary initiatives related to science, technology, innovation, and engineering leadership.
 
-      - name: Civil Engineering Department Representative — UTEC
-        keywords: "Represented Civil Engineering students in academic (2023/2025), research, and student integration initiatives."
+      - label: Civil Engineering Department Representative — UTEC
+        details: Represented Civil Engineering students in academic, research, and student integration initiatives.
 
-      - name: Academic Mentor — Thermodynamics & General Chemistry
-        keywords: "Provided academic mentoring, reinforcement sessions, and exam preparation support for university students."
+      - label: Academic Mentor — Thermodynamics & General Chemistry
+        details: Provided academic mentoring, reinforcement sessions, and exam preparation support for university students.
 
         
     Organizations:
-      - name: American Society of Civil Engineers (ASCE)
-        keywords: "Student Member."
+      - label: American Society of Civil Engineers (ASCE)
+        details: Student Member.
 
-      - name: American Concrete Institute (ACI)
-        keywords: "Founder and President of the ACI UTEC Student Chapter."
+      - label: American Concrete Institute (ACI)
+        details: Founder and President of the ACI UTEC Student Chapter.
 
     Awards:
       - title: Beca 18 Scholarship
