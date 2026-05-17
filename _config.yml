@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Civil Engineering student at UTEC and Project Control Intern at COSAPI S.A., focused on Construction AI, Computer Vision, BIM/VDC, UAV monitoring, and data-driven construction systems.
 footer_text: >
-   Powered by Jekyll and al-folio.
+   
 keywords: civil engineering, construction AI, computer vision, BIM, VDC, UAV monitoring, project production management, deep learning, construction productivity # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🏗️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
