@@ -89,7 +89,7 @@ cv:
           - "Topic: UAV-based computer vision for automated construction phase monitoring under real site conditions."
 
     Projects:
-      - name: Intelligent Construction Monitoring using Computer Vision
+      - name: Intelligent Construction Monitoring using Computer Vision (Set. 2026 - Present)
         date: Sep. 2025 – Present
         summary: Development of CNN-based systems for automated construction phase classification using UAV imagery.
         highlights:
@@ -98,21 +98,21 @@ cv:
           - "Achieved up to 97% accuracy under optimized training conditions."
           - "Integrated Grad-CAM explainability analysis and Power BI dashboards for PPC and Lookahead monitoring."
 
-      - name: BIM Modeling in Revit for Tower 3 of the Los Cerezos de Surco Residential Complex
+      - name: BIM Modeling in Revit for Tower 3 of the Los Cerezos de Surco Residential Complex (Mar. 2025 - Jun. 2025)
         date: Mar. 2025 – Jul. 2025
         summary: BIM modeling and technical information extraction for clash detection and quantity takeoff automation.
         highlights:
           - "Led the structural BIM modeling initiative, including reinforced concrete and steel reinforcement detailing in Revit 2025 for the Tower 3 project, achieving 95% project completion."
           - "Fully automated quantity takeoff workflows in Dynamo for concrete, formwork, and reinforcing steel items in structural elements, achieving less than 5% deviation compared to conventional quantity estimation methods."
 
-      - name: Analysis of the Project “Improvement and Expansion of the Operational and Logistics Capacity of the CEOES at San Lorenzo Station, Callao, Lima”
+      - name: Analysis of the Project “Improvement and Expansion of the Operational and Logistics Capacity of the CEOES at San Lorenzo Station, Callao, Lima” (Aug. 2024 – Dec. 2024)
         date: Aug. 2024 – Dec. 2024
         summary: Construction cost engineering and project planning analysis.
         highlights:
           - "Performed quantity takeoffs for temporary works, foundations, slabs, beams, columns, and shear walls."
           - "Simulated project schedules, monthly cash flow, S-curve analysis, and earned value metrics."
 
-      - name: Evaluation Study of the Hydrological Sensitivity of the Santa River Basin to Climate Change
+      - name: Evaluation Study of the Hydrological Sensitivity of the Santa River Basin to Climate Change (Sep. 2024 – Dec. 2024)
         date: Sep. 2024 – Dec. 2024
         summary: Hydrological and hydroclimatic analysis under climate variability scenarios.
         highlights:
@@ -121,7 +121,7 @@ cv:
           - "Performed bias correction on PISCO climate product datasets."
           - "Analyzed precipitation, temperature, and streamflow data."
 
-      - name: Design of Hydraulic Canal Systems in the Ocoña River, Arequipa Region, Peru
+      - name: Design of Hydraulic Canal Systems in the Ocoña River, Arequipa Region, Peru (Mar. 2024 – Jul. 2024)
         date: Mar. 2024 – Jul. 2024
         summary: Hydraulic infrastructure and flow simulation analysis.
         highlights:
