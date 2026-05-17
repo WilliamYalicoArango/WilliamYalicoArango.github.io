@@ -109,11 +109,18 @@ ninja.data = [{
           window.open("mailto:%77%69%6C%6C%69%61%6D.%79%61%6C%69%63%6F@%75%74%65%63.%65%64%75.%70%65", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/william-eduardo-yalico-arango", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/WilliamYalicoArango", "_blank");
         },
       },{
         id: 'social-rss',
