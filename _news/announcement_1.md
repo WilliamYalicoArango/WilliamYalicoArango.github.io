@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My poster academic was accepted at i3CE 2026.
+My academic poster was officially accepted for presentation at (i3CE 2026).
