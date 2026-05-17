@@ -1,6 +1,6 @@
 ---
 layout: about
-title: William E. Yalico Arango
+title: about
 permalink: /
 subtitle: Control de Proyectos @COSAPI S.A | @UTEC Ingeniería Civil | Beca 18 | BIM | VDC | Ciencia de Datos
 
