@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: PRUEBA # the website title (if blank, full name will be used instead)
-first_name: William Eduardo
-middle_name: 
+title:
+first_name: William E.
+middle_name:
 last_name: Yalico Arango
 contact_note: >
   Feel free to reach out for research collaborations, academic opportunities, or projects related to Construction AI, Computer Vision, BIM/VDC, and construction productivity.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Civil Engineering student at UTEC and Project Control Intern at COSAPI S.A., focused on Construction AI, Computer Vision, BIM/VDC, UAV monitoring, and data-driven construction systems..
+  Civil Engineering student at UTEC and Project Control Intern at COSAPI S.A., focused on Construction AI, Computer Vision, BIM/VDC, UAV monitoring, and data-driven construction systems.
 footer_text: >
    @ 2026 William Eduardo Yalico Arango. Powered by Jekyll and al-folio. Hosted on GitHub Pages.
 keywords: civil engineering, construction AI, computer vision, BIM, VDC, UAV monitoring, project production management, deep learning, construction productivity # add your own keywords or leave empty
