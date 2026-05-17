@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper has been received and accepted for inclusion in the i3CE 2026 proceedings.
+My research paper was officially accepted for inclusion in the i3CE 2026 conference proceedings.
