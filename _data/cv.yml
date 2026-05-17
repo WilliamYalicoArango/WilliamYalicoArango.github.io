@@ -4,7 +4,7 @@ cv:
   email: william.yalico@utec.edu.pe
   location: Lima, Peru
   image: ""
-  summary: Civil Engineering student at UTEC and Project Control Intern at COSAPI S.A., focused on Construction AI, Computer Vision, BIM/VDC, UAV-based monitoring systems, and data-driven approaches for construction productivity and project control.
+  summary: Civil Engineering student at the University of Engineering and Technology (UTEC), Peru, and Project Control Intern at COSAPI S.A., focused on Construction AI, Computer Vision, BIM/VDC, UAV-based monitoring systems, and data-driven approaches for construction productivity, planning, and project control.
 
   social_networks:
     - network: GitHub
@@ -21,10 +21,10 @@ cv:
         area: Civil Engineering
         studyType: Bachelor's Degree
         start_date: 2021
-        end_date: Present
+        end_date: 2026
         highlights:
           - "10th semester Civil Engineering student."
-          - "Relevant coursework: Construction Project Management, Cost Engineering, Lean Construction, BIM."
+          - "Relevant coursework: Construction Project Management (CI4035), Preprofessional Project (PR4101), Construction Cost Engineering (CI4034), Introduction to BIM (CI5333), and Introduction to Lean Construction (CI5331)."
 
       - institution: The University of Tokyo
         location: Tokyo, Japan
@@ -32,6 +32,18 @@ cv:
         studyType: GCI Global Program – Matsuo-Iwasawa Lab
         start_date: 2026
         end_date: Present
+        highlights:
+          - "Focused on Data Science and Artificial Intelligence applications, including machine learning workflows, data analysis, and engineering-oriented problem solving."
+
+      - institution: AWS AI & ML Scholars Program
+        location: Remote
+        area: Artificial Intelligence and Machine Learning
+        studyType: Scholar Program
+        start_date: 2026-03
+        end_date: Present
+        highlights:
+          - "Focused on foundational and applied Machine Learning and Artificial Intelligence concepts."
+          - "Exploring AI applications and cloud-based ML workflows."
 
     Experience:
       - company: COSAPI S.A.
@@ -41,19 +53,33 @@ cv:
         end_date: Present
         summary: Expansion project of Clínica Sanna San Borja Level III-I.
         highlights:
-          - "Monitoring labor-hours, project costs, billing, and economic databases."
-          - "Implemented UAV-based progress monitoring integrating visual data with Lookahead and PPC metrics."
+          - "Monitoring labor-hours, project costs, billing, and project economic databases."
+          - "Implemented UAV-based progress monitoring integrating visual data with Lookahead and PPC planning metrics."
           - "Supported schedule control and forecasting through S-curves and deviation analysis."
 
       - company: Inversiones y Proyectos El Alamo S.A.C.
-        position: Civil Engineering Intern
+        position: Civil Engineering Pre-Professional Intern
         location: Lima, Peru
         start_date: 2025-03
         end_date: 2025-07
+        summary: Technical office area focused on residential building projects.
         highlights:
-          - "Quantity takeoffs from structural, architectural, and MEP drawings."
-          - "Supervision of electrical and sanitary installations."
-          - "Coordination of materials, subcontractors, and construction logistics."
+          - "Performed quantity takeoffs and estimations for structural, architectural, and MEP disciplines."
+          - "Modified technical drawings for Towers 4 and 6."
+          - "Supervised electrical and sanitary installations in Tower 4."
+          - "Coordinated logistics of materials, machinery, subcontractors, and external services."
+          - "Collected field measurements and construction data for project analysis and diagnostics."
+          - "Supported budgeting and technical office activities."
+
+      - company: CITEMAC Laboratory
+        position: Technical Office Assistant
+        location: Lima, Peru
+        start_date: 2025-01
+        end_date: 2025-01
+        highlights:
+          - "Performed monitoring and quality certification tracking for construction projects."
+          - "Prepared quality dossiers including concrete compressive strength tests, diamond core tests, and compaction tests under Peruvian technical standards."
+          - "Developed statistical controls and graphical analysis for concrete quality evaluation."
 
     Publications:
       - title: Deep Learning-Based Construction Phase Monitoring Using UAV Imagery for Anchored Shotcrete Retaining Walls
@@ -69,48 +95,107 @@ cv:
         end_date: Present
         summary: Development of CNN-based systems for automated construction phase classification using UAV imagery.
         highlights:
-          - "Built proprietary UAV dataset under real construction conditions."
-          - "Achieved up to 97% accuracy using EfficientNet-B0."
-          - "Implemented Power BI dashboards for PPC and Lookahead monitoring."
-          - "Integrated Grad-CAM explainability analysis."
+          - "Built a proprietary UAV dataset under real construction conditions."
+          - "Implemented ResNet50 and EfficientNet-B0 models for construction state classification."
+          - "Achieved up to 97% accuracy under optimized training conditions."
+          - "Integrated Grad-CAM explainability analysis and Power BI dashboards for PPC and Lookahead monitoring."
 
-      - name: BIM LOD 300 Modeling and Structural Quantity Takeoff Automation using Dynamo
+      - name: BIM Modeling in Revit for Tower 3 of Los Cerezos de Surco Residential Complex
         start_date: 2025-03
-        end_date: 2025-06
-        summary: Structural BIM modeling and quantity takeoff automation in Revit.
+        end_date: 2025-07
+        summary: BIM modeling and technical information extraction for clash detection and quantity takeoff automation.
         highlights:
-          - "Implemented structural BIM modeling in Revit 2025."
-          - "Automated concrete, formwork, and steel quantity takeoffs using Dynamo."
-          - "Achieved quantity variation below 5%."
+          - "Led the structural BIM modeling initiative, including reinforced concrete and steel reinforcement detailing in Revit 2025."
+          - "Developed Dynamo-based workflows for automated quantity takeoffs of concrete, formwork, and reinforcing steel."
+          - "Achieved less than 5% deviation compared to conventional quantity estimation methods."
+
+      - name: Analysis of the Improvement and Expansion of the Operational and Logistics Capacity of the CEOES at San Lorenzo Station
+        start_date: 2024-08
+        end_date: 2024-12
+        summary: Construction cost engineering and project planning analysis.
+        highlights:
+          - "Performed quantity takeoffs for temporary works, foundations, slabs, beams, columns, and shear walls."
+          - "Simulated project schedules, monthly cash flow, S-curve analysis, and earned value metrics."
+
+      - name: Evaluation Study of the Hydrological Sensitivity of the Santa River Basin to Climate Change
+        start_date: 2024-09
+        end_date: 2024-12
+        summary: Hydrological and hydroclimatic analysis under climate variability scenarios.
+        highlights:
+          - "Applied the GR4J hydrological model under different climate scenarios."
+          - "Performed bias correction on PISCO climate datasets."
+          - "Analyzed precipitation, temperature, and streamflow data for hydrological assessment."
+
+      - name: Design of Hydraulic Canal Systems in the Ocoña River, Arequipa Region, Peru
+        start_date: 2024-03
+        end_date: 2024-07
+        summary: Hydraulic infrastructure and flow simulation analysis.
+        highlights:
+          - "Designed hydraulic canal system configurations for water conveyance infrastructure."
+          - "Modeled flood scenarios using HEC-RAS and hydraulic simulations."
+          - "Performed hydraulic modeling and flow simulations in OpenFOAM."
 
     Skills:
       - name: Programming & AI
-        keywords: Python, TensorFlow, Computer Vision, Deep Learning, Machine Learning, OpenCV, C++, R
+        keywords: Python, TensorFlow, Machine Learning, Deep Learning, Computer Vision, OpenCV, C++, R
 
-      - name: Construction Technologies
-        keywords: BIM, Revit, Dynamo, Civil 3D, Revizto, Power BI
+      - name: BIM & Construction Technologies
+        keywords: Revit, Dynamo, BIM, Civil 3D, Revizto, QGIS, Power BI, AutoCAD, SAP2000
 
-      - name: Project Management & Analytics
-        keywords: MS Project, Cost Control, S-Curves, PPC, Lookahead Planning
+      - name: Project Control & Analytics
+        keywords: MS Project, Cost Control, PPC, Lookahead Planning, S-Curves, Forecasting, Earned Value
+
+      - name: Productivity Tools
+        keywords: MS Excel, MS Word, MS PowerPoint
 
     Volunteer:
+      - company: LEAD UTEC
+        position: Team Member
+        location: Lima, Peru
+        start_date: 2026-01
+        end_date: Present
+        summary: Participation in interdisciplinary initiatives and events related to science, technology, innovation, and engineering leadership.
+
       - company: ACI UTEC Student Chapter
         position: Founder and President
         location: Lima, Peru
-        start_date: 2023
-        end_date: 2025
+        start_date: 2025-01
+        end_date: 2026-01
+        summary: Founder and president of the student chapter at UTEC.
+        highlights:
+          - "Led technical activities related to concrete engineering, research dissemination, symposiums, and academic competitions."
+          - "Managed institutional coordination and student engagement initiatives."
 
-      - company: UTEC Civil & Environmental Engineering Department
-        position: Student Representative
+      - company: UTEC - Civil Engineering Department
+        position: Department Representative
         location: Lima, Peru
-        start_date: 2023
-        end_date: 2025
+        start_date: 2023-01
+        end_date: 2025-05
+        summary: Represented Civil Engineering students in academic and research-related initiatives.
 
-      - company: Scholarship Mentoring Program
-        position: Academic Mentor
+      - company: ANEIC UTEC
+        position: Director of Internal Activities
         location: Lima, Peru
-        start_date: 2022
-        end_date: 2025
+        start_date: 2023-02
+        end_date: 2024-01
+        summary: Led internal academic and student integration activities within the National Association of Civil Engineering Students.
+        highlights:
+          - "Organized technical preparation activities for national engineering competitions."
+          - "Coordinated webinars, symposiums, BIM workshops, and academic dissemination events."
+
+      - company: UTEC - Scholarship Mentoring Program
+        position: Academic Mentor – Thermodynamics & General Chemistry
+        location: Lima, Peru
+        start_date: 2022-03
+        end_date: Present
+        summary: Provided academic mentoring and reinforcement for university students.
+
+      - company: ASCE SC. UTEC
+        position: ExplorASCE Student Talent Member
+        location: Lima, Peru
+        start_date: 2022-09
+        end_date: 2023-04
+        summary: Introduced early-stage students to different branches of Civil Engineering through ASCE activities.
 
     Professional Memberships:
       - name: American Society of Civil Engineers (ASCE)
@@ -124,9 +209,42 @@ cv:
         awarder: PRONABEC - Peruvian Government
         date: 2021
 
-      - title: Accepted Paper at i3CE 2026
-        awarder: ASCE & Seoul National University
+    Certificates:
+      - name: GCI Global Program
+        issuer: Matsuo-Iwasawa Lab - The University of Tokyo
         date: 2026
+
+      - name: AWS AI & ML Scholars Program
+        issuer: Amazon Web Services (AWS)
+        date: 2026
+
+      - name: Construction 4.0 - Digital Transformation in Construction
+        issuer: KONSTRUEDU.COM
+        date: 2024
+
+      - name: Data Manipulation with pandas
+        issuer: DataCamp
+        date: 2026
+
+      - name: Intermediate Python
+        issuer: DataCamp
+        date: 2026
+
+      - name: Intermediate Git
+        issuer: DataCamp
+        date: 2026
+
+      - name: Introduction to Git
+        issuer: DataCamp
+        date: 2026
+
+      - name: Introduction to Python
+        issuer: DataCamp
+        date: 2026
+
+      - name: Quantity Takeoffs in Building Construction
+        issuer: Gesconvi
+        date: 2023
 
     Languages:
       - name: Spanish
@@ -134,16 +252,3 @@ cv:
 
       - name: English
         summary: Professional working proficiency (TOEFL ITP B1)
-
-    Certificates:
-      - name: Aspire Leaders Program
-        issuer: Aspire Institute / Harvard Business School
-        date: 2024
-
-      - name: Data Scientist Career Track
-        issuer: DataCamp
-        date: 2025
-
-      - name: TOEFL ITP
-        issuer: ETS
-        date: 2025
