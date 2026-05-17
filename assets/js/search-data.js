@@ -21,11 +21,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-research-paper-was-officially-accepted-for-inclusion-in-the-i3ce-2026-conference-proceedings",
-          title: 'My research paper was officially accepted for inclusion in the i3CE 2026 conference...',
-          description: "",
-          section: "News",},{id: "news-my-abstract-was-accepted-at-the-4th-annual-technical-conference-of-the-project-production-institute-ppi-focused-on-operations-and-production-oriented-approaches-for-infrastructure-projects",
+            },},{id: "news-my-abstract-was-accepted-at-the-4th-annual-technical-conference-of-the-project-production-institute-ppi-focused-on-operations-and-production-oriented-approaches-for-infrastructure-projects",
           title: 'My abstract was accepted at the 4th Annual Technical Conference of the Project...',
+          description: "",
+          section: "News",},{id: "news-my-research-paper-was-officially-accepted-for-inclusion-in-the-i3ce-2026-conference-proceedings",
+          title: 'My research paper was officially accepted for inclusion in the i3CE 2026 conference...',
           description: "",
           section: "News",},{id: "news-my-academic-poster-was-officially-accepted-for-presentation-at-i3ce-2026-the-poster-session-will-take-place-on-june-14-2026-as-part-of-the-conference-welcome-reception-and-best-poster-award-evaluation-session",
           title: 'My academic poster was officially accepted for presentation at (i3CE 2026). The poster...',
