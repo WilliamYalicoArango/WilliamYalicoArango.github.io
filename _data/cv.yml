@@ -9,12 +9,10 @@ cv:
   social_networks:
     - network: GitHub
       username: WilliamYalicoArango
-
     - network: LinkedIn
       username: william-eduardo-yalico-arango
 
   sections:
-
     Education:
       - institution: University of Engineering and Technology (UTEC)
         location: Lima, Peru
@@ -24,7 +22,7 @@ cv:
         end_date: 2026
         highlights:
           - "10th semester Civil Engineering student."
-          - "Relevant coursework: Construction Project Management (CI4035), Preprofessional Project (PR4101), Construction Cost Engineering (CI4034), Introduction to BIM (CI5333), and Introduction to Lean Construction (CI5331)."
+          - "Relevant coursework: Construction Project Management, Preprofessional Project, Construction Cost Engineering, Introduction to BIM, and Introduction to Lean Construction."
 
       - institution: The University of Tokyo
         location: Tokyo, Japan
@@ -33,7 +31,7 @@ cv:
         start_date: 2026
         end_date: Present
         highlights:
-          - "Focused on Data Science and Artificial Intelligence applications, including machine learning workflows, data analysis, and engineering-oriented problem solving."
+          - "Focused on machine learning workflows, data analysis, and engineering-oriented problem solving."
 
       - institution: AWS AI & ML Scholars Program
         location: Remote
@@ -81,7 +79,7 @@ cv:
           - "Prepared quality dossiers including concrete compressive strength tests, diamond core tests, and compaction tests under Peruvian technical standards."
           - "Developed statistical controls and graphical analysis for concrete quality evaluation."
 
-    Publications:
+    Research & Publications:
       - title: Deep Learning-Based Construction Phase Monitoring Using UAV Imagery for Anchored Shotcrete Retaining Walls
         authors:
           - William Eduardo Yalico Arango
@@ -91,8 +89,7 @@ cv:
 
     Projects:
       - name: Intelligent Construction Monitoring using Computer Vision
-        start_date: 2025-09
-        end_date: Present
+        date: Sep. 2025 – Present
         summary: Development of CNN-based systems for automated construction phase classification using UAV imagery.
         highlights:
           - "Built a proprietary UAV dataset under real construction conditions."
@@ -100,56 +97,46 @@ cv:
           - "Achieved up to 97% accuracy under optimized training conditions."
           - "Integrated Grad-CAM explainability analysis and Power BI dashboards for PPC and Lookahead monitoring."
 
-      - name: BIM Modeling in Revit for Tower 3 of the Los Cerezos de Surco Residential Complex for Clash Detection and Optimized Technical Information Extraction
-        start_date: 2025-03
-        end_date: 2025-07
+      - name: BIM Modeling in Revit for Tower 3 of the Los Cerezos de Surco Residential Complex
+        date: Mar. 2025 – Jul. 2025
         summary: BIM modeling and technical information extraction for clash detection and quantity takeoff automation.
         highlights:
           - "Led the structural BIM modeling initiative, including reinforced concrete and steel reinforcement detailing in Revit 2025 for the Tower 3 project, achieving 95% project completion."
           - "Fully automated quantity takeoff workflows in Dynamo for concrete, formwork, and reinforcing steel items in structural elements, achieving less than 5% deviation compared to conventional quantity estimation methods."
 
       - name: Analysis of the Project “Improvement and Expansion of the Operational and Logistics Capacity of the CEOES at San Lorenzo Station, Callao, Lima”
-        start_date: 2024-08
-        end_date: 2024-12
+        date: Aug. 2024 – Dec. 2024
         summary: Construction cost engineering and project planning analysis.
         highlights:
           - "Performed quantity takeoffs for temporary works, foundations, slabs, beams, columns, and shear walls."
           - "Simulated project schedules, monthly cash flow, S-curve analysis, and earned value metrics."
 
       - name: Evaluation Study of the Hydrological Sensitivity of the Santa River Basin to Climate Change
-        start_date: 2024-09
-        end_date: 2024-12
+        date: Sep. 2024 – Dec. 2024
         summary: Hydrological and hydroclimatic analysis under climate variability scenarios.
         highlights:
-          - "Evaluated the hydrological sensitivity of the Santa River Basin to climate change through the analysis of hydroclimatic data from 1981–2016."
-          - "Applied the GR4J hydrological model to simulate basin response under different climate scenarios and performed bias correction on PISCO climate product datasets."
-          - "Prepared and calibrated hydroclimatic databases, including evapotranspiration time series estimation using the Hargreaves & Samani model."
-          - "Analyzed precipitation, temperature, and streamflow data to assess the impact of climate variability on flow regime behavior."
+          - "Evaluated hydroclimatic data from 1981–2016."
+          - "Applied the GR4J hydrological model under different climate scenarios."
+          - "Performed bias correction on PISCO climate product datasets."
+          - "Analyzed precipitation, temperature, and streamflow data."
 
       - name: Design of Hydraulic Canal Systems in the Ocoña River, Arequipa Region, Peru
-        start_date: 2024-03
-        end_date: 2024-07
+        date: Mar. 2024 – Jul. 2024
         summary: Hydraulic infrastructure and flow simulation analysis.
         highlights:
           - "Designed hydraulic canal system configurations for water conveyance infrastructure."
-          - "Modeled flood scenarios using HEC-RAS and delineated water conveyance routes through hydraulic and topographic analysis."
-          - "Simulated hydraulic structures to evaluate full-scale flow behavior using software tools such as Iber, QGIS, Civil 3D, and HCanales."
+          - "Modeled flood scenarios using HEC-RAS and hydraulic simulations."
           - "Performed hydraulic channel modeling and flow simulations in OpenFOAM."
 
     Skills:
       - name: Programming & AI
         keywords: Python, TensorFlow, Machine Learning, Deep Learning, Computer Vision, OpenCV, C++, R
-
       - name: BIM & Construction Technologies
         keywords: Revit, Dynamo, BIM, Civil 3D, Revizto, QGIS, Power BI, AutoCAD, SAP2000
-
       - name: Project Control & Analytics
         keywords: MS Project, Cost Control, PPC, Lookahead Planning, S-Curves, Forecasting, Earned Value
 
-      - name: Productivity Tools
-        keywords: MS Excel, MS Word, MS PowerPoint, Power Bi
-
-    Volunteer:
+    Leadership & Volunteering:
       - company: LEAD UTEC
         position: Team Member
         location: Lima, Peru
@@ -198,7 +185,7 @@ cv:
         end_date: 2023-04
         summary: Introduced early-stage students to different branches of Civil Engineering through ASCE activities.
 
-    Professional Memberships:
+    Organizations:
       - name: American Society of Civil Engineers (ASCE)
         summary: Student Member
 
@@ -214,35 +201,27 @@ cv:
       - name: GCI Global Program
         issuer: Matsuo-Iwasawa Lab - The University of Tokyo
         date: 2026
-
       - name: AWS AI & ML Scholars Program
         issuer: Amazon Web Services (AWS)
         date: 2026
-
       - name: Construction 4.0 - Digital Transformation in Construction
         issuer: KONSTRUEDU.COM
         date: 2024
-
       - name: Data Manipulation with pandas
         issuer: DataCamp
         date: 2026
-
       - name: Intermediate Python
         issuer: DataCamp
         date: 2026
-
       - name: Intermediate Git
         issuer: DataCamp
         date: 2026
-
       - name: Introduction to Git
         issuer: DataCamp
         date: 2026
-
       - name: Introduction to Python
         issuer: DataCamp
         date: 2026
-
       - name: Quantity Takeoffs in Building Construction
         issuer: Gesconvial
         date: 2023
@@ -250,6 +229,5 @@ cv:
     Languages:
       - name: Spanish
         summary: Native speaker
-
       - name: English
         summary: Professional working proficiency (TOEFL ITP)
