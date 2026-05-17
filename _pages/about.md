@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Project Management @COSAPI S.A | @UTEC Civil Engineering | Beca 18 | BIM | VCC | Data Science
+subtitle: Project Management @COSAPI S.A | @UTEC Civil Engineering | Beca 18 | BIM | VDC | Data Science
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+51 991 668 899</p>
     <p>Lima, Peru</p>
     <p>UTEC - Universidad de Ingeniería y Tecnología</p>
 
