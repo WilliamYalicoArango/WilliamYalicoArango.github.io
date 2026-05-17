@@ -24,7 +24,7 @@ cv:
           - "Relevant coursework: Construction Project Management, Preprofessional Project, Construction Cost Engineering, Introduction to BIM, and Introduction to Lean Construction."
 
       - institution: The University of Tokyo
-        location: Tokyo, Japan
+        location: Remote
         area: Data Science and Artificial Intelligence
         studyType: GCI Global Program – Matsuo-Iwasawa Lab
         start_date: 2026
@@ -74,17 +74,19 @@ cv:
         start_date: 2025-01
         end_date: 2025-01
         highlights:
-          - "Performed monitoring and quality certification tracking for construction projects."
-          - "Prepared quality dossiers including concrete compressive strength tests, diamond core tests, and compaction tests under Peruvian technical standards."
+          - "Control, update, and monitor the quality certification for each project."
+          - "Preparation and delivery of the Quality Dossier for each project: Concrete compressive strength testing - NTP 339.034/ASTM C39, diamond core and sectioned concrete beam testing - NTP 339.059/ASTM C42, compaction test (Proctor), and others."
           - "Developed statistical controls and graphical analysis for concrete quality evaluation."
 
     Research & Publications:
-      - name: Deep Learning-Based Intelligent Monitoring Framework for Anchored Shotcrete Retaining Walls
+      - title: Deep Learning-Based Intelligent Monitoring Framework for Anchored Shotcrete Retaining Walls
+        awarder: International Conference on Computing in Civil Engineering (i3CE 2026)
         date: 2026
-        summary: Accepted at the International Conference on Computing in Civil Engineering (i3CE 2026), organized by ASCE and Seoul National University, Songdo, Incheon, South Korea.
+        summary: Accepted for presentation and inclusion in the conference proceedings. Organized by ASCE and Seoul National University in Songdo, Incheon, South Korea.
         highlights:
-          - "Invited for both oral presentation and academic poster presentation."
-          - "Focus on UAV-based computer vision systems for automated construction phase monitoring under real construction site conditions."
+          - "Author: William Eduardo Yalico Arango."
+          - "Presentation format: oral presentation and academic poster."
+          - "Topic: UAV-based computer vision for automated construction phase monitoring under real site conditions."
 
     Projects:
       - name: Intelligent Construction Monitoring using Computer Vision
@@ -137,32 +139,24 @@ cv:
 
     Leadership & Volunteering:
       - name: Founder and President — ACI UTEC Student Chapter
-        date: Jan. 2025 – Jan. 2026
-        summary: Founded and led the American Concrete Institute (ACI) student chapter at UTEC.
-        highlights:
-          - "Organized technical events, symposiums, and academic dissemination activities related to concrete and construction engineering."
+        keywords: "Founded and led the ACI student chapter at UTEC (2023/25); organized technical events, symposiums, and academic dissemination activities related to concrete and construction engineering."
 
       - name: Team Member — LEAD UTEC
-        date: Jan. 2026 – Present
-        summary: Participating in interdisciplinary initiatives related to science, technology, innovation, and engineering leadership.
+        keywords: "Participating in interdisciplinary initiatives related to science, technology, innovation, and engineering leadership."
 
       - name: Civil Engineering Department Representative — UTEC
-        date: Jan. 2023 – May. 2025
-        summary: Represented Civil Engineering students in academic, research, and student integration initiatives.
+        keywords: "Represented Civil Engineering students in academic (2023/2025), research, and student integration initiatives."
 
       - name: Academic Mentor — Thermodynamics & General Chemistry
-        date: Mar. 2022 – Present
-        summary: Provided academic mentoring, reinforcement sessions, and exam preparation support for university students.
+        keywords: "Provided academic mentoring, reinforcement sessions, and exam preparation support for university students."
 
         
     Organizations:
       - name: American Society of Civil Engineers (ASCE)
-        date: Present
-        summary: Student Member.
+        keywords: "Student Member."
 
       - name: American Concrete Institute (ACI)
-        date: Present
-        summary: Founder and President of the ACI UTEC Student Chapter.
+        keywords: "Founder and President of the ACI UTEC Student Chapter."
 
     Awards:
       - title: Beca 18 Scholarship
