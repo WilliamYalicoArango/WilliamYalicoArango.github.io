@@ -80,12 +80,12 @@ cv:
           - "Developed statistical controls and graphical analysis for concrete quality evaluation."
 
     Research & Publications:
-      - title: Deep Learning-Based Construction Phase Monitoring Using UAV Imagery for Anchored Shotcrete Retaining Walls
-        authors:
-          - William Eduardo Yalico Arango
-        publisher: International Conference on Computing in Civil Engineering (i3CE 2026)
-        releaseDate: 2026
-        summary: Research focused on deep learning and UAV-based monitoring systems for automated classification of construction phases under real construction site conditions.
+      - name: Deep Learning-Based Intelligent Monitoring Framework for Anchored Shotcrete Retaining Walls
+        date: 2026
+        summary: Accepted at the International Conference on Computing in Civil Engineering (i3CE 2026), organized by ASCE and Seoul National University, Songdo, Incheon, South Korea.
+        highlights:
+          - "Invited for both oral presentation and academic poster presentation."
+          - "Focus on UAV-based computer vision systems for automated construction phase monitoring under real construction site conditions."
 
     Projects:
       - name: Intelligent Construction Monitoring using Computer Vision
@@ -137,60 +137,35 @@ cv:
         keywords: MS Project, Cost Control, PPC, Lookahead Planning, S-Curves, Forecasting, Earned Value
 
     Leadership & Volunteering:
-      - company: LEAD UTEC
-        position: Team Member
-        location: Lima, Peru
-        start_date: 2026-01
-        end_date: Present
-        summary: Participation in interdisciplinary initiatives and events related to science, technology, innovation, and engineering leadership.
-
-      - company: ACI UTEC Student Chapter
-        position: Founder and President
-        location: Lima, Peru
-        start_date: 2025-01
-        end_date: 2026-01
-        summary: Founder and president of the student chapter at UTEC.
+       - name: Founder and President — ACI UTEC Student Chapter
+        date: Jan. 2025 – Jan. 2026
+        summary: Founded and led the American Concrete Institute (ACI) student chapter at UTEC.
         highlights:
-          - "Led technical activities related to concrete engineering, research dissemination, symposiums, and academic competitions."
-          - "Managed institutional coordination and student engagement initiatives."
+          - "Organized technical events, symposiums, and academic dissemination activities related to concrete and construction engineering."
 
-      - company: UTEC - Civil Engineering Department
-        position: Department Representative
-        location: Lima, Peru
-        start_date: 2023-01
-        end_date: 2025-05
-        summary: Represented Civil Engineering students in academic and research-related initiatives.
+      - name: Team Member — LEAD UTEC
+        date: Jan. 2026 – Present
+        summary: Participating in interdisciplinary initiatives related to science, technology, innovation, and engineering leadership.
 
-      - company: ANEIC UTEC
-        position: Director of Internal Activities
-        location: Lima, Peru
-        start_date: 2023-02
-        end_date: 2024-01
-        summary: Led internal academic and student integration activities within the National Association of Civil Engineering Students.
-        highlights:
-          - "Organized technical preparation activities for national engineering competitions."
-          - "Coordinated webinars, symposiums, BIM workshops, and academic dissemination events."
+      - name: Civil Engineering Department Representative — UTEC
+        date: Jan. 2023 – May. 2025
+        summary: Represented Civil Engineering students in academic, research, and student integration initiatives.
 
-      - company: UTEC - Scholarship Mentoring Program
-        position: Academic Mentor – Thermodynamics & General Chemistry
-        location: Lima, Peru
-        start_date: 2022-03
-        end_date: Present
-        summary: Provided academic mentoring and reinforcement for university students.
+      - name: Academic Mentor — Thermodynamics & General Chemistry
+        date: Mar. 2022 – Present
+        summary: Provided academic mentoring, reinforcement sessions, and exam preparation support for university students.
 
-      - company: ASCE SC. UTEC
-        position: ExplorASCE Student Talent Member
-        location: Lima, Peru
-        start_date: 2022-09
-        end_date: 2023-04
+      - name: ExplorASCE Student Talent Member — ASCE SC. UTEC
+        date: Sep. 2022 – Apr. 2023
         summary: Introduced early-stage students to different branches of Civil Engineering through ASCE activities.
-
     Organizations:
       - name: American Society of Civil Engineers (ASCE)
-        summary: Student Member
+        date: Present
+        summary: Student Member.
 
       - name: American Concrete Institute (ACI)
-        summary: Founder and President of the UTEC Student Chapter
+        date: Present
+        summary: Founder and President of the ACI UTEC Student Chapter.
 
     Awards:
       - title: Beca 18 Scholarship
