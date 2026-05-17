@@ -136,7 +136,7 @@ cv:
         keywords: MS Project, Cost Control, PPC, Lookahead Planning, S-Curves, Forecasting, Earned Value
 
     Leadership & Volunteering:
-       - name: Founder and President — ACI UTEC Student Chapter
+      - name: Founder and President — ACI UTEC Student Chapter
         date: Jan. 2025 – Jan. 2026
         summary: Founded and led the American Concrete Institute (ACI) student chapter at UTEC.
         highlights:
@@ -154,9 +154,7 @@ cv:
         date: Mar. 2022 – Present
         summary: Provided academic mentoring, reinforcement sessions, and exam preparation support for university students.
 
-      - name: ExplorASCE Student Talent Member — ASCE SC. UTEC
-        date: Sep. 2022 – Apr. 2023
-        summary: Introduced early-stage students to different branches of Civil Engineering through ASCE activities.
+        
     Organizations:
       - name: American Society of Civil Engineers (ASCE)
         date: Present
@@ -201,7 +199,24 @@ cv:
         date: 2023
 
     Languages:
-      - name: Spanish
-        summary: Native speaker
-      - name: English
-        summary: Professional working proficiency (TOEFL ITP)
+      - language: Spanish
+        fluency: Native
+
+      - language: English
+        fluency: Professional Working Proficiency
+        
+    Interests:
+      - name: Research Interests
+        keywords:
+          - Construction AI
+          - Computer Vision
+          - Deep Learning
+          - BIM/VDC
+          - Lean Construction
+          - Pull Planning
+          - Project Production Management (PPM)
+          - Modern Construction
+          - Operations Science
+          - UAV-based Monitoring
+          - Digital Construction
+          - Data-Driven Project Control
