@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-william-e-yalico-arango",
+    title: "William E. Yalico Arango",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
