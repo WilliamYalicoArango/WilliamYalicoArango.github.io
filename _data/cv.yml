@@ -100,16 +100,15 @@ cv:
           - "Achieved up to 97% accuracy under optimized training conditions."
           - "Integrated Grad-CAM explainability analysis and Power BI dashboards for PPC and Lookahead monitoring."
 
-      - name: BIM Modeling in Revit for Tower 3 of Los Cerezos de Surco Residential Complex
+      - name: BIM Modeling in Revit for Tower 3 of the Los Cerezos de Surco Residential Complex for Clash Detection and Optimized Technical Information Extraction
         start_date: 2025-03
         end_date: 2025-07
         summary: BIM modeling and technical information extraction for clash detection and quantity takeoff automation.
         highlights:
-          - "Led the structural BIM modeling initiative, including reinforced concrete and steel reinforcement detailing in Revit 2025."
-          - "Developed Dynamo-based workflows for automated quantity takeoffs of concrete, formwork, and reinforcing steel."
-          - "Achieved less than 5% deviation compared to conventional quantity estimation methods."
+          - "Led the structural BIM modeling initiative, including reinforced concrete and steel reinforcement detailing in Revit 2025 for the Tower 3 project, achieving 95% project completion."
+          - "Fully automated quantity takeoff workflows in Dynamo for concrete, formwork, and reinforcing steel items in structural elements, achieving less than 5% deviation compared to conventional quantity estimation methods."
 
-      - name: Analysis of the Improvement and Expansion of the Operational and Logistics Capacity of the CEOES at San Lorenzo Station
+      - name: Analysis of the Project “Improvement and Expansion of the Operational and Logistics Capacity of the CEOES at San Lorenzo Station, Callao, Lima”
         start_date: 2024-08
         end_date: 2024-12
         summary: Construction cost engineering and project planning analysis.
@@ -122,9 +121,10 @@ cv:
         end_date: 2024-12
         summary: Hydrological and hydroclimatic analysis under climate variability scenarios.
         highlights:
-          - "Applied the GR4J hydrological model under different climate scenarios."
-          - "Performed bias correction on PISCO climate datasets."
-          - "Analyzed precipitation, temperature, and streamflow data for hydrological assessment."
+          - "Evaluated the hydrological sensitivity of the Santa River Basin to climate change through the analysis of hydroclimatic data from 1981–2016."
+          - "Applied the GR4J hydrological model to simulate basin response under different climate scenarios and performed bias correction on PISCO climate product datasets."
+          - "Prepared and calibrated hydroclimatic databases, including evapotranspiration time series estimation using the Hargreaves & Samani model."
+          - "Analyzed precipitation, temperature, and streamflow data to assess the impact of climate variability on flow regime behavior."
 
       - name: Design of Hydraulic Canal Systems in the Ocoña River, Arequipa Region, Peru
         start_date: 2024-03
@@ -132,8 +132,9 @@ cv:
         summary: Hydraulic infrastructure and flow simulation analysis.
         highlights:
           - "Designed hydraulic canal system configurations for water conveyance infrastructure."
-          - "Modeled flood scenarios using HEC-RAS and hydraulic simulations."
-          - "Performed hydraulic modeling and flow simulations in OpenFOAM."
+          - "Modeled flood scenarios using HEC-RAS and delineated water conveyance routes through hydraulic and topographic analysis."
+          - "Simulated hydraulic structures to evaluate full-scale flow behavior using software tools such as Iber, QGIS, Civil 3D, and HCanales."
+          - "Performed hydraulic channel modeling and flow simulations in OpenFOAM."
 
     Skills:
       - name: Programming & AI
@@ -146,7 +147,7 @@ cv:
         keywords: MS Project, Cost Control, PPC, Lookahead Planning, S-Curves, Forecasting, Earned Value
 
       - name: Productivity Tools
-        keywords: MS Excel, MS Word, MS PowerPoint
+        keywords: MS Excel, MS Word, MS PowerPoint, Power Bi
 
     Volunteer:
       - company: LEAD UTEC
@@ -243,7 +244,7 @@ cv:
         date: 2026
 
       - name: Quantity Takeoffs in Building Construction
-        issuer: Gesconvi
+        issuer: Gesconvial
         date: 2023
 
     Languages:
@@ -251,4 +252,4 @@ cv:
         summary: Native speaker
 
       - name: English
-        summary: Professional working proficiency (TOEFL ITP B1)
+        summary: Professional working proficiency (TOEFL ITP)
