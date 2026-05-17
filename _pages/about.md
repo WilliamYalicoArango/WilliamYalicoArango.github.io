@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Control de Proyectos @COSAPI S.A | @UTEC Ingeniería Civil | Beca 18 | BIM | VDC | Ciencia de Datos
 
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>+51 991 668 899</p>
     <p>Lima, Peru</p>
