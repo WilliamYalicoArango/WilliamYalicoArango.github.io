@@ -34,10 +34,3 @@ His interests focus on construction productivity, computer vision, artificial in
 His current research explores deep learning and UAV-based computer vision systems for automated monitoring of construction phases in anchored shotcrete retaining walls under real construction site conditions. His most recent work on computer vision–based monitoring of construction phases was accepted at the International Conference on Computing in Civil Engineering [(i3CE 2026)](https://www.i3ce2026.co), which will be held in Songdo, Incheon, South Korea, and hosted by the [Seoul National University Smart Construction AI Research Center](https://scai.snu.ac.kr/) and the American Society of Civil Engineers [(ASCE)](https://ascelibrary.org/).
 
 His long-term goal is to contribute to the digital transformation of the construction industry through intelligent systems that improve productivity, project control, and decision-making in complex engineering environments.
-
-
-
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
