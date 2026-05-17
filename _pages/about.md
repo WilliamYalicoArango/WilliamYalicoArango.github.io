@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Control de Proyectos @COSAPI S.A | @UTEC Ingeniería Civil | Beca 18 | BIM | VDC | Ciencia de Datos
+subtitle: Project Management @COSAPI S.A | @UTEC Civil Engineering | Beca 18 | BIM | VCC | Data Science
 
 profile:
   align: right
