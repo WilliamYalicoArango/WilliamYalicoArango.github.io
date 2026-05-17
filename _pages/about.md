@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
     <p>Lima, Peru</p>
     <p>UTEC - Universidad de Ingeniería y Tecnología</p>
 
