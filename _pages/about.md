@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-William Eduardo Yalico Arango is a final-year Civil Engineering student at the University of Engineering and Technology [(UTEC)](https://utec.edu.pe/), Peru, and a Project Control Intern at [COSAPI S.A.]([https://utec.edu.pe/](https://www.cosapi.com.pe/site/index.aspx), a leading construction company with over 65 years of experience in Peru. He is a recipient of the Beca 18 scholarship, awarded by the Peruvian government for academic excellence, and has participated in the GCI Global Program in Data Science and AI at the [Matsuo-Iwasawa Lab](https://weblab.t.u-tokyo.ac.jp/en/), University of Tokyo.
+William Eduardo Yalico Arango is a final-year Civil Engineering student at the University of Engineering and Technology [(UTEC)](https://utec.edu.pe/), Peru, and a Project Control Intern at [COSAPI S.A.](https://www.cosapi.com.pe/site/index.aspx), a leading construction company with over 65 years of experience in Peru. He is a recipient of the Beca 18 scholarship, awarded by the Peruvian government for academic excellence, and has participated in the GCI Global Program in Data Science and AI at the [Matsuo-Iwasawa Lab](https://weblab.t.u-tokyo.ac.jp/en/), University of Tokyo.
 
 His interests focus on construction productivity, process optimization, and the integration of data-driven approaches within Project Production Management (PPM) frameworks.
 
