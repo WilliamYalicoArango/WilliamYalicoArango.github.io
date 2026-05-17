@@ -40,8 +40,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-my-paper-has-been-received-and-accepted-for-inclusion-in-the-i3ce-2026-proceedings",
+          title: 'My paper has been received and accepted for inclusion in the i3CE 2026...',
           description: "",
           section: "News",},{id: "news-my-poster-academic-was-accepted-at-i3ce-2026",
           title: 'My poster academic was accepted at i3CE 2026.',
