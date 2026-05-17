@@ -1,6 +1,6 @@
 cv:
   name: William Eduardo Yalico Arango
-  label: Civil Engineering Student | Construction AI Research
+  label: Civil Engineering Student
   email: william.yalico@utec.edu.pe
   location: Lima, Peru
   image: ""
@@ -79,13 +79,13 @@ cv:
           - "Developed statistical controls and graphical analysis for concrete quality evaluation."
 
     Research & Publications:
-     - title: Deep Learning-Based Intelligent Monitoring Framework for Anchored Shotcrete Retaining Walls
+      - title: Deep Learning-Based Intelligent Monitoring Framework for Anchored Shotcrete Retaining Walls
         authors:
           - William Eduardo Yalico Arango
           - Nathalie Murga Díaz
+        summary: Accepted for oral presentation and academic poster presentation at i3CE 2026, organized by ASCE and Seoul National University in Songdo, Incheon, South Korea.
         journal: International Conference on Computing in Civil Engineering (i3CE 2026)
         date: 2026-06
-        summary: Accepted for oral presentation and academic poster presentation at i3CE 2026, organized by ASCE and Seoul National University in Songdo, Incheon, South Korea.
 
     Projects:
       - name: Intelligent Construction Monitoring using Computer Vision (Set. 2026 - Present)
@@ -137,31 +137,56 @@ cv:
         keywords: MS Project, Cost Control, PPC, Lookahead Planning, S-Curves, Forecasting, Earned Value
 
     Leadership & Volunteering:
-      - label: Founder and President — ACI UTEC Student Chapter
-        details: Founded and led the ACI student chapter at UTEC; organized technical events, symposiums, and academic dissemination activities related to concrete and construction engineering.
+      - name: Founder and President — ACI UTEC Student Chapter
+        date:
+        start_date: 2023-01
+        end_date: 2025-01
+        location: Lima, Peru
+        summary: Founded and led the American Concrete Institute (ACI) student chapter at UTEC.
+        highlights:
+          - Organized technical events, symposiums, and academic dissemination activities related to concrete and construction engineering.
 
-      - label: Team Member — LEAD UTEC
-        details: Participating in interdisciplinary initiatives related to science, technology, innovation, and engineering leadership.
+      - name: Team Member — LEAD UTEC
+        date:
+        start_date: 2026-01
+        end_date: present
+        location: Lima, Peru
+        summary: Participating in interdisciplinary initiatives related to science, technology, innovation, and engineering leadership.
+        highlights:
 
-      - label: Civil Engineering Department Representative — UTEC
-        details: Represented Civil Engineering students in academic, research, and student integration initiatives.
+      - name: Civil Engineering Department Representative — UTEC
+        date:
+        start_date: 2023-01
+        end_date: 2025-05
+        location: Lima, Peru
+        summary: Represented Civil Engineering students in academic, research, and student integration initiatives.
+        highlights:
 
-      - label: Academic Mentor — Thermodynamics & General Chemistry
-        details: Provided academic mentoring, reinforcement sessions, and exam preparation support for university students.
-
+      - name: Academic Mentor — Thermodynamics & General Chemistry
+        date:
+        start_date: 2022-03
+        end_date: present
+        location: Lima, Peru
+        summary: Provided academic mentoring, reinforcement sessions, and exam preparation support for university students.
+        highlights:
         
     Organizations:
-      - label: American Society of Civil Engineers (ASCE)
-        details: Student Member.
+      - name: American Society of Civil Engineers (ASCE)
+        date: Present
+        start_date:
+        end_date:
+        location: Peru
+        summary: Student Member.
+        highlights:
 
-      - label: American Concrete Institute (ACI)
-        details: Founder and President of the ACI UTEC Student Chapter.
-
-    Awards:
-      - title: Beca 18 Scholarship
-        awarder: PRONABEC - Peruvian Government
-        date: 2021
-
+      - name: American Concrete Institute (ACI)
+        date: Present
+        start_date:
+        end_date:
+        location: Peru
+        summary: Founder and President of the ACI UTEC Student Chapter.
+        highlights:
+        
     Certificates:
       - name: GCI Global Program
         issuer: Matsuo-Iwasawa Lab - The University of Tokyo
