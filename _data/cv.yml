@@ -4,7 +4,7 @@ cv:
   email: william.yalico@utec.edu.pe
   location: Lima, Peru
   image: ""
-  summary: Civil Engineering student at the University of Engineering and Technology (UTEC), Peru, and Project Control Intern at COSAPI S.A., focused on Construction AI, Computer Vision, BIM/VDC, UAV-based monitoring systems, and data-driven approaches for construction productivity, planning, and project control.
+  summary: Research-oriented Civil Engineering student at UTEC and Project Control Intern at COSAPI S.A., focused on robust AI and computer vision systems for complex real-world construction environments. Research interests include domain shift mitigation, explainability in deep learning, multimodal construction monitoring, UAV-based perception systems, and intelligent construction state representation under operational variability.
 
   social_networks:
     - network: GitHub
@@ -32,15 +32,6 @@ cv:
         highlights:
           - "Focused on machine learning workflows, data analysis, and engineering-oriented problem solving."
 
-      - institution: AWS AI & ML Scholars Program
-        location: Remote
-        area: Artificial Intelligence and Machine Learning
-        studyType: Scholar Program
-        start_date: 2026-03
-        end_date: Present
-        highlights:
-          - "Focused on foundational and applied Machine Learning and Artificial Intelligence concepts."
-          - "Exploring AI applications and cloud-based ML workflows."
 
     Experience:
       - company: COSAPI S.A.
@@ -51,7 +42,7 @@ cv:
         summary: Expansion project of Clínica Sanna San Borja Level III-I.
         highlights:
           - "Monitoring labor-hours, project costs, billing, and project economic databases."
-          - "Implemented UAV-based progress monitoring integrating visual data with Lookahead and PPC planning metrics."
+          - "Implemented UAV-based computer vision workflows for construction progress monitoring under real operational variability, integrating visual inference outputs with PPC and Lookahead planning metrics."
           - "Supported schedule control and forecasting through S-curves and deviation analysis."
 
       - company: Inversiones y Proyectos El Alamo S.A.C.
