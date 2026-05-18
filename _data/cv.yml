@@ -79,7 +79,7 @@ Research & Publications:
           - "Accepted for both oral presentation and academic poster presentation."
           - "Research focused on UAV-based computer vision systems for automated construction phase monitoring under real construction site conditions."
 
-    Projects:
+    Recent projects:
       - name: Intelligent Construction Monitoring using Computer Vision (Set. 2026 - Present)
         date: Sep. 2025 – Present
         summary: Development of CNN-based systems for automated construction phase classification using UAV imagery.
@@ -96,13 +96,6 @@ Research & Publications:
           - "Led the structural BIM modeling initiative, including reinforced concrete and steel reinforcement detailing in Revit 2025 for the Tower 3 project, achieving 95% project completion."
           - "Fully automated quantity takeoff workflows in Dynamo for concrete, formwork, and reinforcing steel items in structural elements, achieving less than 5% deviation compared to conventional quantity estimation methods."
 
-      - name: Analysis of the Project “Improvement and Expansion of the Operational and Logistics Capacity of the CEOES at San Lorenzo Station, Callao, Lima” (Aug. 2024 – Dec. 2024)
-        date: Aug. 2024 – Dec. 2024
-        summary: Construction cost engineering and project planning analysis.
-        highlights:
-          - "Performed quantity takeoffs for temporary works, foundations, slabs, beams, columns, and shear walls."
-          - "Simulated project schedules, monthly cash flow, S-curve analysis, and earned value metrics."
-
       - name: Evaluation Study of the Hydrological Sensitivity of the Santa River Basin to Climate Change (Sep. 2024 – Dec. 2024)
         date: Sep. 2024 – Dec. 2024
         summary: Hydrological and hydroclimatic analysis under climate variability scenarios.
@@ -112,17 +105,11 @@ Research & Publications:
           - "Performed bias correction on PISCO climate product datasets."
           - "Analyzed precipitation, temperature, and streamflow data."
 
-      - name: Design of Hydraulic Canal Systems in the Ocoña River, Arequipa Region, Peru (Mar. 2024 – Jul. 2024)
-        date: Mar. 2024 – Jul. 2024
-        summary: Hydraulic infrastructure and flow simulation analysis.
-        highlights:
-          - "Designed hydraulic canal system configurations for water conveyance infrastructure."
-          - "Modeled flood scenarios using HEC-RAS and hydraulic simulations."
-          - "Performed hydraulic channel modeling and flow simulations in OpenFOAM."
-
     Skills:
-      - name: Programming & AI
-        keywords: Python, TensorFlow, Machine Learning, Deep Learning, Computer Vision, OpenCV, C++, R
+      - name: Machine Learning & Computer Vision
+        keywords: TensorFlow, Deep Learning, CNNs, Transfer Learning, Grad-CAM, OpenCV, UAV-based Vision Systems
+      - name: Programming
+        keywords: Python, C++, R, Git
       - name: BIM & Construction Technologies
         keywords: Revit, Dynamo, BIM, Civil 3D, Revizto, QGIS, Power BI, AutoCAD, SAP2000
       - name: Project Control & Analytics
