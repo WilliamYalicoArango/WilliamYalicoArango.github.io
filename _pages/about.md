@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Project Management @COSAPI S.A | @UTEC Civil Engineering | Beca 18 | Data Science
+subtitle: Civil Engineering @ UTEC | Construction AI & Computer Vision
 
 profile:
   align: right
