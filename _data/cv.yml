@@ -9,10 +9,12 @@ cv:
   social_networks:
     - network: GitHub
       username: WilliamYalicoArango
+
     - network: LinkedIn
       username: william-eduardo-yalico-arango
 
   sections:
+
     Education:
       - institution: University of Engineering and Technology (UTEC)
         location: Lima, Peru
@@ -31,7 +33,6 @@ cv:
         end_date: Present
         highlights:
           - "Focused on machine learning workflows, data analysis, and engineering-oriented problem solving."
-
 
     Experience:
       - company: COSAPI S.A.
@@ -69,13 +70,12 @@ cv:
           - "Preparation and delivery of the Quality Dossier for each project: Concrete compressive strength testing - NTP 339.034/ASTM C39, diamond core and sectioned concrete beam testing - NTP 339.059/ASTM C42, compaction test (Proctor), and others."
           - "Developed statistical controls and graphical analysis for concrete quality evaluation."
 
-Research & Publications:
- - label: "Deep Learning-Based Intelligent Monitoring Framework for Anchored Shotcrete Retaining Walls"
+    "Research & Publications":
+      - label: "Deep Learning-Based Intelligent Monitoring Framework for Anchored Shotcrete Retaining Walls"
         details: "Authors: William Eduardo Yalico Arango and Nathalie Murga Díaz. Accepted for oral presentation and academic poster presentation at i3CE 2026, organized by ASCE and Seoul National University in Songdo, Incheon, South Korea."
 
-
     Recent projects:
-      - name: Intelligent Construction Monitoring using Computer Vision (Set. 2026 - Present)
+      - name: Intelligent Construction Monitoring using Computer Vision (Sep. 2025 - Present)
         date: Sep. 2025 – Present
         summary: Development of CNN-based systems for automated construction phase classification using UAV imagery.
         highlights:
@@ -91,7 +91,7 @@ Research & Publications:
           - "Led the structural BIM modeling initiative, including reinforced concrete and steel reinforcement detailing in Revit 2025 for the Tower 3 project, achieving 95% project completion."
           - "Fully automated quantity takeoff workflows in Dynamo for concrete, formwork, and reinforcing steel items in structural elements, achieving less than 5% deviation compared to conventional quantity estimation methods."
 
-      - name: Evaluation Study of the Hydrological Sensitivity of the Santa River Basin to Climate Change (Sep. 2024 – Dec. 2024)
+      - name: Evaluation Study of the Hydrological Sensitivity of the Santa River Basin to Climate Change (Sep. 2024 - Dec. 2024)
         date: Sep. 2024 – Dec. 2024
         summary: Hydrological and hydroclimatic analysis under climate variability scenarios.
         highlights:
@@ -102,16 +102,46 @@ Research & Publications:
 
     Skills:
       - name: Machine Learning & Computer Vision
-        keywords: TensorFlow, Deep Learning, CNNs, Transfer Learning, Grad-CAM, OpenCV, UAV-based Vision Systems
-      - name: Programming
-        keywords: Python, C++, R, Git
-      - name: BIM & Construction Technologies
-        keywords: Revit, Dynamo, BIM, Civil 3D, Revizto, QGIS, Power BI, AutoCAD, SAP2000
-      - name: Project Control & Analytics
-        keywords: MS Project, Cost Control, PPC, Lookahead Planning, S-Curves, Forecasting, Earned Value
+        keywords:
+          - TensorFlow
+          - Deep Learning
+          - CNNs
+          - Transfer Learning
+          - Grad-CAM
+          - OpenCV
+          - UAV-based Vision Systems
 
-    Leadership & Volunteering:
-  - label: "Founder and President — ACI UTEC Student Chapter"
+      - name: Programming
+        keywords:
+          - Python
+          - C++
+          - R
+          - Git
+
+      - name: BIM & Construction Technologies
+        keywords:
+          - Revit
+          - Dynamo
+          - BIM
+          - Civil 3D
+          - Revizto
+          - QGIS
+          - Power BI
+          - AutoCAD
+          - SAP2000
+
+      - name: Project Control & Analytics
+        keywords:
+          - MS Project
+          - Cost Control
+          - PPC
+          - Lookahead Planning
+          - S-Curves
+          - Forecasting
+          - Earned Value
+
+    "Leadership & Volunteering":
+      - label: "Founder and President — ACI UTEC Student Chapter"
         details: "Founded and led the ACI student chapter at UTEC; organized technical events, symposiums, and academic dissemination activities related to concrete and construction engineering."
 
       - label: "Team Member — LEAD UTEC"
@@ -122,24 +152,27 @@ Research & Publications:
 
       - label: "Academic Mentor — Thermodynamics & General Chemistry"
         details: "Provided academic mentoring, reinforcement sessions, and exam preparation support for university students."
-        
+
     Organizations:
       - label: "American Society of Civil Engineers (ASCE)"
         details: "Student Member."
 
       - label: "American Concrete Institute (ACI)"
         details: "Founder and President of the ACI UTEC Student Chapter."
-        
+
     Certificates:
       - name: GCI Global Program
         issuer: Matsuo-Iwasawa Lab - The University of Tokyo
         date: 2026
+
       - name: AWS AI & ML Scholars Program
         issuer: Amazon Web Services (AWS)
         date: 2026
+
       - name: Aspire Leaders Program
         issuer: Aspire Institute / Harvard Business School
         date: 2025
+
       - name: Construction 4.0 - Digital Transformation in Construction
         issuer: KONSTRUEDU.COM
         date: 2024
@@ -150,7 +183,7 @@ Research & Publications:
 
       - language: English
         fluency: Professional Working Proficiency
-        
+
     Interests:
       - name: Research Interests
         keywords:
