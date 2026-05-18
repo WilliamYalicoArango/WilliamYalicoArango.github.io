@@ -1,9 +1,9 @@
 cv:
   name: William Eduardo Yalico Arango
-  label: Construction AI Researcher
+  headline: Construction AI Researcher
   email: william.yalico@utec.edu.pe
   location: Lima, Peru
-  image: ""
+
   summary: Research-oriented Civil Engineering student at UTEC and Project Control Intern at COSAPI S.A., focused on robust AI and computer vision systems for complex real-world construction environments. Research interests include domain shift mitigation, explainability in deep learning, multimodal construction monitoring, UAV-based perception systems, and intelligent construction state representation under operational variability.
 
   social_networks:
@@ -19,7 +19,7 @@ cv:
       - institution: University of Engineering and Technology (UTEC)
         location: Lima, Peru
         area: Civil Engineering
-        studyType: Bachelor's Degree
+        degree: Bachelor's Degree
         start_date: 2021
         end_date: 2026
         highlights:
@@ -28,9 +28,9 @@ cv:
       - institution: The University of Tokyo
         location: Remote
         area: Data Science and Artificial Intelligence
-        studyType: GCI Global Program – Matsuo-Iwasawa Lab
+        degree: GCI Global Program – Matsuo-Iwasawa Lab
         start_date: 2026
-        end_date: Present
+        end_date: present
         highlights:
           - "Focused on machine learning workflows, data analysis, and engineering-oriented problem solving."
 
@@ -39,7 +39,7 @@ cv:
         position: Project Control Intern
         location: Lima, Peru
         start_date: 2025-09
-        end_date: Present
+        end_date: present
         summary: Expansion project of Clínica Sanna San Borja Level III-I.
         highlights:
           - "Monitoring labor-hours, project costs, billing, and project economic databases."
@@ -74,9 +74,9 @@ cv:
       - label: "Deep Learning-Based Intelligent Monitoring Framework for Anchored Shotcrete Retaining Walls"
         details: "Authors: William Eduardo Yalico Arango and Nathalie Murga Díaz. Accepted for oral presentation and academic poster presentation at i3CE 2026, organized by ASCE and Seoul National University in Songdo, Incheon, South Korea."
 
-    Recent projects:
-      - name: Intelligent Construction Monitoring using Computer Vision (Sep. 2025 - Present)
-        date: Sep. 2025 – Present
+    "Recent Projects":
+      - name: Intelligent Construction Monitoring using Computer Vision
+        date: "Sep. 2025 – Present"
         summary: Development of CNN-based systems for automated construction phase classification using UAV imagery.
         highlights:
           - "Built a proprietary UAV dataset under real construction conditions."
@@ -84,18 +84,17 @@ cv:
           - "Achieved up to 97% accuracy under optimized training conditions."
           - "Integrated Grad-CAM explainability analysis and Power BI dashboards for PPC and Lookahead monitoring."
 
-      - name: BIM Modeling in Revit for Tower 3 of the Los Cerezos de Surco Residential Complex (Mar. 2025 - Jun. 2025)
-        date: Mar. 2025 – Jul. 2025
+      - name: BIM Modeling in Revit for Tower 3 of the Los Cerezos de Surco Residential Complex
+        date: "Mar. 2025 – Jul. 2025"
         summary: BIM modeling and technical information extraction for clash detection and quantity takeoff automation.
         highlights:
-          - "Led the structural BIM modeling initiative, including reinforced concrete and steel reinforcement detailing in Revit 2025 for the Tower 3 project, achieving 95% project completion."
-          - "Fully automated quantity takeoff workflows in Dynamo for concrete, formwork, and reinforcing steel items in structural elements, achieving less than 5% deviation compared to conventional quantity estimation methods."
+          - "Led the structural BIM modeling initiative in Revit 2025, including reinforced concrete and steel detailing."
+          - "Automated quantity takeoff workflows in Dynamo with less than 5% deviation compared to traditional methods."
 
-      - name: Evaluation Study of the Hydrological Sensitivity of the Santa River Basin to Climate Change (Sep. 2024 - Dec. 2024)
-        date: Sep. 2024 – Dec. 2024
+      - name: Evaluation Study of the Hydrological Sensitivity of the Santa River Basin to Climate Change
+        date: "Sep. 2024 – Dec. 2024"
         summary: Hydrological and hydroclimatic analysis under climate variability scenarios.
         highlights:
-          - "Evaluated hydroclimatic data from 1981–2016."
           - "Applied the GR4J hydrological model under different climate scenarios."
           - "Performed bias correction on PISCO climate product datasets."
           - "Analyzed precipitation, temperature, and streamflow data."
