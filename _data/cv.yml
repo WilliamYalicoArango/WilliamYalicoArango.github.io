@@ -74,7 +74,7 @@ cv:
       - label: "Deep Learning-Based Intelligent Monitoring Framework for Anchored Shotcrete Retaining Walls"
         details: "Authors: William Eduardo Yalico Arango and Nathalie Murga Díaz. Accepted for oral presentation and academic poster presentation at i3CE 2026, organized by ASCE and Seoul National University in Songdo, Incheon, South Korea."
 
-    "Recent Projects":
+    "Projects":
       - name: Intelligent Construction Monitoring using Computer Vision
         date: "Sep. 2025 – Present"
         summary: Development of CNN-based systems for automated construction phase classification using UAV imagery.
